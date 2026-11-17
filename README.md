@@ -1,10 +1,10 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=D8BD61&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Engenharia+da+Computa%C3%A7%C3%A3o;Python;HTML;CSS;Javascript"
-    alt="Estudante de Engenharia da Computação; Python; HTML; CSS; Javascript"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=D8BD61&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Aprendendo+Python"
+    alt="Estudante de Engenharia da Computação; aprendendo Python"
   >
   <h1>Pedro</h1>
-  <p>Estudante de Engenharia da Computação · Python · HTML · CSS · Javascript</p>
+  <p>Estudante de Engenharia da Computação · aprendendo Python</p>
 </div>
 
 ## Pokédex
@@ -100,4 +100,6 @@
 
 ## Contato
 
-[GitHub](https://github.com/pedromarcelinoxd) · [E-mail](mailto:pedromarcelino7k@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111018?style=for-the-badge&logo=github&logoColor=D8BD61)](https://github.com/pedromarcelinoxd)
+[![E-mail](https://img.shields.io/badge/E--mail-111018?style=for-the-badge&logo=gmail&logoColor=D8BD61)](mailto:pedromarcelino7k@gmail.com)
+
