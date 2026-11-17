@@ -4,7 +4,7 @@
     alt="Estudante de Engenharia da Computação; Python; HTML; CSS; Javascript"
   >
   <h1>Pedro</h1>
-  <p>Estudante de Engenharia da Computação · aprendendo Python</p>
+  <p>Estudante de Engenharia da Computação · Python · HTML · CSS · Javascript</p>
 </div>
 
 ## Pokédex
