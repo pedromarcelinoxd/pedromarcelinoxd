@@ -4,7 +4,7 @@
     alt="Engenharia da Computação;Python"
   >
   <h1>Pedro</h1>
-  <p>Estudante de Engenharia da Computação · Python</p>
+  <p>Estudante de Engenharia da Computação</p>
 </div>
 
 ## Pokédex
