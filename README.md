@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=D8BD61&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Aprendendo+Python"
-    alt="Estudante de Engenharia da Computação; aprendendo Python"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=D8BD61&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Engenharia+da+Computa%C3%A7%C3%A3o;+Python"
+    alt="Engenharia da Computação;Python"
   >
   <h1>Pedro</h1>
   <p>Estudante de Engenharia da Computação · aprendendo Python</p>
